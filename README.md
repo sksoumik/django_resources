@@ -12,6 +12,7 @@
 
 ---
 ### Blogs
+- [simpleisbetterthancomplex](https://simpleisbetterthancomplex.com/)
 - [djangogirls](https://tutorial.djangogirls.org/en/how_the_internet_works/)
 - [codingforentrepreneurs](https://www.codingforentrepreneurs.com/projects)
 
@@ -22,8 +23,10 @@
 
 ---
 ### YouTube Tutorials
-- [Max Goodridge](https://www.youtube.com/playlist?list=PLw02n0FEB3E3VSHjyYMcFadtQORvl1Ssj)
-- [Parwiz Forogh](https://www.youtube.com/playlist?list=PL1FgJUcJJ03v0YDsbsRbKb6KOxyNjTLFF)
-- [thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
-- [freeCodeCamp.org](https://www.youtube.com/watch?v=F5mRW0jo-U4)
-- [iVish](https://www.youtube.com/playlist?list=PLpvpznviFFFJUWlHylwipLLr1iLYs-cft)
+- [Max Goodridge - Django Tutorials](https://www.youtube.com/playlist?list=PLw02n0FEB3E3VSHjyYMcFadtQORvl1Ssj)
+- [Parwiz Forogh - Learn Django 2.1](https://www.youtube.com/playlist?list=PL1FgJUcJJ03v0YDsbsRbKb6KOxyNjTLFF)
+- [thenewboston - Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
+- [freeCodeCamp.org - Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4)
+- [Aarav Tech - Django Rest Framework Tutorials](https://www.youtube.com/playlist?list=PL1WVjBsN-_NJ4urkLt7iVDocVu_ZQgVzF)
+- [CodingEntrepreneurs - Build a Rest API with the Django REST Framework](https://www.youtube.com/watch?v=tG6O8YF91HE&t=741s)
+- []
