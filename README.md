@@ -25,8 +25,13 @@
 ### YouTube Tutorials
 - [Max Goodridge - Django Tutorials](https://www.youtube.com/playlist?list=PLw02n0FEB3E3VSHjyYMcFadtQORvl1Ssj)
 - [Parwiz Forogh - Learn Django 2.1](https://www.youtube.com/playlist?list=PL1FgJUcJJ03v0YDsbsRbKb6KOxyNjTLFF)
+- [HighFiveCode - Learn Django 2.0 with PollMe](https://www.youtube.com/playlist?list=PLjIu7NinqwsLmiOkCzy9ZYGQxQzw-304O)
 - [thenewboston - Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
 - [freeCodeCamp.org - Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4)
 - [Aarav Tech - Django Rest Framework Tutorials](https://www.youtube.com/playlist?list=PL1WVjBsN-_NJ4urkLt7iVDocVu_ZQgVzF)
 - [CodingEntrepreneurs - Build a Rest API with the Django REST Framework](https://www.youtube.com/watch?v=tG6O8YF91HE&t=741s)
-- []
+- [sentdex - Django Web Development with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
+- [CodingEntrepreneurs - Try DJANGO Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW)
+- [Corey Schafer - Django Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+- [ePayMinds - Python eCommerce Build a Django eCommerce Web Application](https://www.youtube.com/playlist?list=PLV2_Iivd4jxYVDWCcxmccusNaUx2kWCg1)
+
