@@ -1,4 +1,4 @@
-### django_resources
+## django learning resources
 
 ---
 ### Books 
