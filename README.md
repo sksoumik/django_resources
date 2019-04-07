@@ -12,4 +12,5 @@
 
 ---
 ### Websites
+- [Django official documentation](https://docs.djangoproject.com/en/2.1/intro/)
 - [DjangoSites - django projects with source code](https://www.djangosites.org/with-source/)
