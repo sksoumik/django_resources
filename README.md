@@ -3,9 +3,12 @@
 ---
 ### Books 
 - [Django 2 by Example -  Antonio Mele](https://drive.google.com/file/d/1zZaSEaAR7U32UE27gxLZIL5jVDp06mHr/view?usp=sharing)
+- [Two Scoops of Django Best Practices for Django 1.8 - Daniel Roy Greenfeld, Audrey Roy Greenfeld](https://drive.google.com/file/d/1BxLm517n4Hk0IVBCzTmCY21ejT-M1UEn/view?usp=sharing)
 - [Lightweight Django: Using REST, WebSockets, and Backbone - 	Julia Elman, Mark Lavin](https://drive.google.com/file/d/19Dfl6ks_heYOpB6khhkAeoEGsAM4kmUH/view?usp=sharing)
 - [High Performance Django - Baumgartner, P.;Malet, Y.](https://drive.google.com/file/d/1BUIN3FcH7_Yl1zDyMSEBZJ-seTYSEFsN/view?usp=sharing)
 - [Django RESTful Web Services - Gaston C. Hillar](https://drive.google.com/file/d/1ipgTecJawp7OQC3wrwAYU5qQB_jS4UP5/view?usp=sharing)
+- [Django Cookbook Web Development with Django - Beau Curtin](https://drive.google.com/file/d/1lzISiqbEqJP7Vs8C7k0f1XC16ChFbKug/view?usp=sharing)
+
 
 ---
 ### Blogs
