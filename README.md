@@ -34,4 +34,7 @@
 - [CodingEntrepreneurs - Try DJANGO Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW)
 - [Corey Schafer - Django Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 - [ePayMinds - Python eCommerce Build a Django eCommerce Web Application](https://www.youtube.com/playlist?list=PLV2_Iivd4jxYVDWCcxmccusNaUx2kWCg1)
+- [Derek Banas - Django Tutorial](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSMqZiTTsAC7C8Ypp81Jt6D)
+- [Vineeth Sai - Django - Inventory Management System from scratch](https://www.youtube.com/playlist?list=PLTPOhsA1ovnkyBbnG5RwF9YFWLCqsD0Nf)
+- [Free Online Courses - Django for WordPress Developers](https://www.youtube.com/playlist?list=PLw_k9CF7hBpLIdKAhjZDlP3YUWAP1tOqA)
 
