@@ -15,6 +15,8 @@
 - [simpleisbetterthancomplex](https://simpleisbetterthancomplex.com/)
 - [djangogirls](https://tutorial.djangogirls.org/en/how_the_internet_works/)
 - [codingforentrepreneurs](https://www.codingforentrepreneurs.com/projects)
+- [valentinog - Tutorial: Django REST with React](https://www.valentinog.com/blog/tutorial-api-django-rest-react/)
+- [wsvincent - Django Rest Framework with React Tutorial](https://wsvincent.com/django-rest-framework-react-tutorial/)
 
 ---
 ### Websites
@@ -22,6 +24,9 @@
 - [DjangoSites - django projects with source code](https://www.djangosites.org/with-source/)
 - [Mozilla - Django Web Framework](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 - [marinamele - TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
+- [tutorialspoint - Django Tutorial](https://www.tutorialspoint.com/django/)
+- [javatpoint - Django Tutorial](https://www.javatpoint.com/django-tutorial)
+
 
 ---
 ### YouTube Tutorials
