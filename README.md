@@ -46,4 +46,5 @@
 - [Free Online Courses - Django for WordPress Developers](https://www.youtube.com/playlist?list=PLw_k9CF7hBpLIdKAhjZDlP3YUWAP1tOqA)
 - [Traversy Media - Full Stack React & Django](https://www.youtube.com/playlist?list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60)
 - [The Dumbfounds - Django Design Patterns](https://www.youtube.com/playlist?list=PLbpAWbHbi5rM736O4ivIfedpetuRFMB9U)
-
+- [Pretty Printed - Django Tutorials](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
+- [JustDjango - Django Intermediate](https://www.youtube.com/playlist?list=PLLRM7ROnmA9HEta6gV4j4h2WfmIOC23EH)
