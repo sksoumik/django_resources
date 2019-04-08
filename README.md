@@ -39,4 +39,6 @@
 - [Derek Banas - Django Tutorial](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSMqZiTTsAC7C8Ypp81Jt6D)
 - [Vineeth Sai - Django - Inventory Management System from scratch](https://www.youtube.com/playlist?list=PLTPOhsA1ovnkyBbnG5RwF9YFWLCqsD0Nf)
 - [Free Online Courses - Django for WordPress Developers](https://www.youtube.com/playlist?list=PLw_k9CF7hBpLIdKAhjZDlP3YUWAP1tOqA)
+- [Traversy Media - Full Stack React & Django](https://www.youtube.com/playlist?list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60)
+- [The Dumbfounds - Django Design Patterns](https://www.youtube.com/playlist?list=PLbpAWbHbi5rM736O4ivIfedpetuRFMB9U)
 
