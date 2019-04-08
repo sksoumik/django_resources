@@ -20,6 +20,8 @@
 ### Websites
 - [Django official documentation](https://docs.djangoproject.com/en/2.1/intro/)
 - [DjangoSites - django projects with source code](https://www.djangosites.org/with-source/)
+- [Mozilla - Django Web Framework](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+- [marinamele - TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
 
 ---
 ### YouTube Tutorials
