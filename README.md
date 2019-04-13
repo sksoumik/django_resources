@@ -26,6 +26,7 @@
 - [marinamele - TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
 - [tutorialspoint - Django Tutorial](https://www.tutorialspoint.com/django/)
 - [javatpoint - Django Tutorial](https://www.javatpoint.com/django-tutorial)
+- [django-marcador](http://django-marcador.keimlink.de/)
 
 
 ---
