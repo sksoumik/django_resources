@@ -50,3 +50,4 @@
 - [Pretty Printed - Django Tutorials](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
 - [JustDjango - Django Intermediate](https://www.youtube.com/playlist?list=PLLRM7ROnmA9HEta6gV4j4h2WfmIOC23EH)
 - [CodingEntrepreneurs - Try DJANGO TUTORIAL Series (v2.2) // PYTHON Web Development with Django version 2.2](https://youtu.be/-oQvMHpKkms)
+- [Telusko - Django Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau)
