@@ -8,7 +8,9 @@
 - [High Performance Django - Baumgartner, P.;Malet, Y.](https://drive.google.com/file/d/1BUIN3FcH7_Yl1zDyMSEBZJ-seTYSEFsN/view?usp=sharing)
 - [Django RESTful Web Services - Gaston C. Hillar](https://drive.google.com/file/d/1ipgTecJawp7OQC3wrwAYU5qQB_jS4UP5/view?usp=sharing)
 - [Django Cookbook Web Development with Django - Beau Curtin](https://drive.google.com/file/d/1lzISiqbEqJP7Vs8C7k0f1XC16ChFbKug/view?usp=sharing)
-
+- [Django ORM Cookbook - agiliq.com](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/)
+- [Building APIs with Django and Django Rest Framework - agiliq.com](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
+- [Django Admin Cookbook - agiliq.com](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/)
 
 ---
 ### Blogs
