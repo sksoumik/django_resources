@@ -29,6 +29,7 @@
 - [tutorialspoint - Django Tutorial](https://www.tutorialspoint.com/django/)
 - [javatpoint - Django Tutorial](https://www.javatpoint.com/django-tutorial)
 - [django-marcador](http://django-marcador.keimlink.de/)
+- [Find Django Libraries & Code Snippets](https://kandi.openweaver.com/search/libraries?q=django)
 
 
 ---
